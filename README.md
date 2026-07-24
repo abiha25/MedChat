@@ -157,4 +157,4 @@ MedChat is an educational project and is not a substitute for professional medic
 - [Mariyam Muzammil](https://github.com/mariyamzx/)
 
 ## Original collaborative repository:
-[NCAI-Personalized-Patient-Chatbot]([https://github.com/mariyamzx/](https://github.com/izmanaveed/NCAI-Personlized-Patient-Chatbot))
+[NCAI-Personalized-Patient-Chatbot](https://github.com/izmanaveed/NCAI-Personlized-Patient-Chatbot/)
